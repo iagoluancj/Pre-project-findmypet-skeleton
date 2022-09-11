@@ -1,0 +1,148 @@
+h2 {
+    position: absolute;
+    width: 740px;
+    height: 160px;
+    left: 450px;
+    top: 47px;
+
+    font-family: 'Lexend Deca', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 80px;
+    text-align: right;
+
+    color: #224957;
+
+}
+
+h5 {
+    position: absolute;
+    width: 800px;
+    height: 20px;
+    left: 600px;
+    top: 276px;
+
+    font-family: 'Lexend Deca', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+
+    text-align: center;
+
+    color: #224957;
+}
+
+#login {
+
+    font-family: 'Lexend Deca', sans-serif;
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 850px;
+    top: 332px;
+
+    background: #224957;
+    border-radius: 10px;
+
+}
+
+#password {
+
+    font-family: 'Lexend Deca', sans-serif;
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 850px;
+    top: 409px;
+
+    background: #224957;
+    border-radius: 10px;
+
+}
+
+#forgotPass {
+    /* Forgot password? */
+
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 1020px;
+    top: 477px;
+
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+#register {
+
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 850px;
+    top: 477px;
+
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+    
+}
+
+#submit {
+    
+    font-family: 'Lexend Deca', sans-serif;
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 850px;
+    top: 520px;
+
+    background: #20DF7F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+#vector {
+
+    position: absolute;
+    width: 1350px;
+    height: 111px;
+    left: 0px;
+    top: 609px;
+    
+}
+
+#vector2 {
+    
+    position: absolute;
+    width: 1350px;
+    height: 111px;
+    left: 0px;
+    top: 609px;
+}
+
+body {
+    
+    background-image: url(../login/img/backgroundGirado.jpg) ;
+    background-size: 1350px 720px;
+    background-repeat: no-repeat;
+
+}
+

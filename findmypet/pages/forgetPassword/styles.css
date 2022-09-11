@@ -1,0 +1,128 @@
+h1 {
+    position: absolute;
+    width: 661px;
+    height: 160px;
+    left: 313px;
+    top: 47px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 80px;
+    text-align: center;
+    
+    color: #224957;
+}
+
+h2 {
+
+    position: absolute;
+    width: 520px;
+    height: 20px;
+    left: 379px;
+    top: 258px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #224957;
+
+}
+
+#email {
+
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 490px;
+    top: 341px;
+    
+    background: #224957;
+    border-radius: 10px;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+
+#submit {
+
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 490px;
+    top: 518px;
+    
+    background: #20DF7F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+
+}
+
+#telefone { 
+
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 490px;
+    top: 426px;
+    
+    background: #224957;
+    border-radius: 10px;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+
+#register {
+
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 580px;
+    top: 490px;
+
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+    
+}
+
+#vector {
+
+    position: absolute;
+    width: 1350px;
+    height: 111px;
+    left: 0px;
+    top: 609px;
+    
+}
+
+#vector2 {
+    
+    position: absolute;
+    width: 1350px;
+    height: 111px;
+    left: 0px;
+    top: 609px;
+}
+
+body {
+    
+    background-image: url(../forgetPassword/img/backgroundTwo.jpg) ;
+    background-size: 1350px 720px;
+    background-repeat: no-repeat;
+
+}   
+

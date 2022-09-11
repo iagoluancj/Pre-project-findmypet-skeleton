@@ -1,0 +1,144 @@
+h1 {
+    
+    position: absolute;
+    width: 600px;
+    height: 160px;
+    left: 90px;
+    top: 10px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 62px;
+    line-height: 80px;
+    text-align: left;
+    
+    color: #224957;
+}
+
+h2 {
+
+    position: absolute;
+    width: 454px;
+    height: 20px;
+    left: 90px;
+    top: 198px;
+    
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    
+    text-align: left;
+    
+    color: #224957;
+
+}
+
+#telefone { 
+
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 90px;
+    top: 265px;
+    
+    background: #224957;
+    border-radius: 10px;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+
+#email {
+
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 90px;
+    top: 322px;
+    
+    background: #224957;
+    border-radius: 10px;
+    font-family: 'Lexend Deca', sans-serif;
+
+    
+}
+
+#password {
+
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 90px;
+    top: 378px;
+    
+    background: #224957;
+    border-radius: 10px;
+    font-family: 'Lexend Deca', sans-serif;
+
+}
+
+#submit {
+
+    position: absolute;
+    width: 300px;
+    height: 45px;
+    left: 90px;
+    top: 518px;
+    
+    background: #20DF7F;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+
+}
+
+#login {
+
+    position: absolute;
+    width: 130px;
+    height: 20px;
+    left: 170px;
+    top: 490px;
+
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+    
+}
+
+#vector {
+
+    position: absolute;
+    width: 1350px;
+    height: 111px;
+    left: 0px;
+    top: 609px;
+    
+}
+
+#vector2 {
+    
+    position: absolute;
+    width: 1350px;
+    height: 111px;
+    left: 0px;
+    top: 609px;
+}
+
+body {
+    
+    background-image: url(../register/img/backgroud2.jpeg) ;
+    background-size: 1350px 720px;
+    background-repeat: no-repeat;
+
+}
+
